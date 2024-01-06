@@ -1,3 +1,4 @@
 {
-    "jupyter.kernels.filter": []
+    "jupyter.kernels.filter": [],
+    "julia.environmentPath": "/Users/jeremieengler/Documents/Cloud/Travail_cloud/EPFL/MA1/Fondamentals of transport/Trafic"
 }
